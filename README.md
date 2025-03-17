@@ -46,7 +46,7 @@ This project investigates the dynamics of offensive language on Twitter during t
 ## How to Reproduce the Results
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/your-username/offensive-language-twitter-2024.git
+   git clone [https://github.com/your-username/offensive-language-twitter-2024.git](https://github.com/sahibnoorsingh009/CSS_Report.git)
    cd offensive-language-twitter-2024
    ```
 
