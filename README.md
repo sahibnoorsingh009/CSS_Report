@@ -19,6 +19,7 @@ This project investigates the dynamics of offensive language on Twitter during t
    - [new_dataset_with_predictions.csv](https://drive.google.com/file/d/1GW5I79CcQNAjl2J_X_PZVD8IBDYU09Fv/view?usp=share_link)
    - [sorted_output.csv](https://drive.google.com/file/d/1-ZIbGYN6DneqK1umJ8Os4sXVpBhxt7cH/view?usp=share_link)
    - [election2024_data.csv](https://drive.google.com/file/d/1--1QtFJ0yv8LGs_e4LNqmt2SU3lXkTdG/view?usp=share_link)
+   - [new_data_with_sentiment.csv](https://drive.google.com/file/d/1K2bjNkGK1tJtfZhxTlbXBLvNKed4HXpC/view?usp=share_link)
 
 ## Methodology
 ### Data Preprocessing
