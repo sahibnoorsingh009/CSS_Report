@@ -56,12 +56,10 @@ This project investigates the dynamics of offensive language on Twitter during t
 
 3. **Run the Notebooks**:
    - Open the Jupyter notebooks in the `notebooks/` directory to preprocess data, train models, and analyze results.
-   - Start with `data_preprocessing.ipynb` for data cleaning and feature engineering.
-   - Proceed to `model_training_evaluation.ipynb` for model training and evaluation.
-   - Finally, use `temporal_analysis.ipynb` and `party_analysis.ipynb` for temporal and political affiliation analysis.
+   - Start with `eda1.py`.
+   - Proceed to `olid_dat_training_-2.py` for model training and evaluation.
+   - Finally, use `party_classifier.py` for temporal and political affiliation analysis.
 
-4. **Generate Plots**:
-   - The plots used in the report are generated in the notebooks and saved in the `plots/` directory.
 
 ## Dependencies
 - Python 3.x
