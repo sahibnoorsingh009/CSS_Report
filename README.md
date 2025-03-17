@@ -14,6 +14,7 @@ This project investigates the dynamics of offensive language on Twitter during t
 ## Datasets
 1. **OLID Dataset**: Contains 14,100 tweets labeled as offensive (1) or non-offensive (0). Used for training and validating machine learning models.
    - [Updated_OLID_Dataset_with_Binary_subtask_a.csv](https://github.com/sahibnoorsingh009/CSS_Report/blob/main/Updated_OLID_Dataset_with_Binary_subtask_a.csv)
+   - [OLID.csv](https://drive.google.com/file/d/1I8bGTAJtmfEwcfPZcF1xA2-HlgAlO0UN/view?usp=share_link)
 2. **2024 U.S. Election Dataset**: A corpus of approximately 250,000 tweets related to the 2024 U.S. Presidential Election. Used for applying the trained models to analyze offensive language in a real-world political context.
    - [output.csv](https://drive.google.com/file/d/1_Ew2E4XR-hO3TRn-KWje8-j2OFODmshP/view?usp=share_link)
    - [new_dataset_with_predictions.csv](https://drive.google.com/file/d/1GW5I79CcQNAjl2J_X_PZVD8IBDYU09Fv/view?usp=share_link)
