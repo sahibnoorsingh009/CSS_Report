@@ -1,6 +1,5 @@
-Certainly! Below is a sample `README.md` file for a GitHub repository based on the provided report. This README provides an overview of the project, its goals, methodologies, and how to reproduce the results.
 
-```markdown
+
 # Offensive Language on Twitter During the 2024 U.S. Election
 
 ## Overview
@@ -70,4 +69,3 @@ This project investigates the dynamics of offensive language on Twitter during t
 ## Acknowledgments
 - Supervised by Paul Bauer.
 - Datasets sourced from Huggingface, Kaggle, and USC-X-24-US-Election GitHub repository.
-```
